@@ -11,3 +11,4 @@ git remote remove origin - origin nevű távoli repo eltávolítása
 git add readme.md - váltaztatások metése(staging)
 git commit -m "first commit" - commit hazzáadása
 git branch -m main - az ág átnevezáse main-re
+git push -u origin main - távoli repo-ba feltölti a változásokat
